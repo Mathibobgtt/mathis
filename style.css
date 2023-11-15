@@ -1,0 +1,205 @@
+#header {
+    font-size: 20px;
+    font-weight: bold;  /* met le texte en gras */
+    text-align: center;   /* permet de centrer le titre */
+}
+
+#nav{
+   
+    border-right: 2px solid (46, 45, 45); /*Les borders permettent de faire mon rectangle autour de nav */
+    padding: 10px;
+    padding-right: 40px;
+    width: 200px;   /* met la largeur de la nav a 100px*/
+    height: 600px ;   /* met la longueur de la nav*/
+    float: left;
+    background-color: rgb(131,166,192);     /* met le fond en gris foncé */
+    color: black;    /*met le text en bleu */
+ }
+
+#nav {
+    margin-bottom: 10px;
+    margin-right: 0px;
+
+ }
+.body{
+    background-color: rgb(228,240,245)   /* met le fond du site en gris */
+      }
+
+#bloc{
+ text-align: center;
+    
+}
+
+#bloc h1{
+    text-align: center;   /* permet de centrer le titre */
+}   
+#footer{
+    margin-top: 550px;
+    position: fixed;
+}
+
+
+
+
+
+/*css pour 2ème page*/
+
+#header2{
+    font-size: 20px;
+    font-weight: bold;  /* met le texte en gras */
+    text-align: center;   /* permet de centrer le titre */
+}
+
+#nav2{
+    /*Les borders permettent de faire mon rectangle autour de nav */
+  /*Les borders permettent de faire mon rectangle autour de nav */
+  border-right: 2px solid (46, 45, 45); /*Les borders permettent de faire mon rectangle autour de nav */
+  /*Les borders permettent de faire mon rectangle autour de nav */
+  padding: 10px;
+  padding-right: 40px;
+  width: 90px;   /* met la largeur de la nav a 100px*/
+  height: 2500px ;   /* met la longueur de la nav*/
+  float: left;
+  background-color: rgb(228,240,245) ;     /* met le fond en gris foncé */
+  color:black ;    /*met le text en bleu */
+}
+
+#body2{
+    background-color: rgb(131,166,192);
+}
+
+
+
+
+#h2{             /* titre sport*/
+   margin-left: 800px;  /*permet de déplace le text'e vers la droite */
+   font-size:28px ;
+    
+}
+
+#sport{
+    margin-left: 200px;
+    font-size: 20px;  /* change la taille du texte */
+}   
+
+
+
+#h3{              /* titre muscu*/
+    font-size: 28px;
+    margin-left: 750px;
+    
+}
+#imgm{
+  margin-top: 100px;
+  margin-left: 550px;
+}
+
+#textmus{    /* text muscu */
+    margin-left: 200px;
+    font-size: 20px;
+}
+#épaule{    
+    margin-left: 150px;
+
+}
+#textep{        /* texte épaule*/
+    margin-left: 200px;
+    font-size: 20px;
+
+}
+#pecs{
+    margin-left: 150px;
+}
+#textpec{          /* texte pecs*/
+   margin-left: 200px;
+    font-size: 20px;
+}
+#h1B{        /* titre boxe*/
+    margin-left: 650px;
+    font-size: 28px;
+
+}
+
+#boxe{
+    float:left
+
+}
+#h1A{    /*titre animaux*/
+    margin-left: 170px;
+    font-size: 28px;
+}
+#animaux{
+    float: left;
+    text-align: center  ;
+    font-size: 20px; 
+   
+}
+#chien{             /* image chien*/
+    margin-left: 250px;
+    float: left;
+
+
+}
+#textg{
+    float:left;
+    font-size: 20px; 
+}
+#textr{
+    float: right;
+    font-size: 20px; 
+}
+
+
+
+
+
+#text-boxe{
+    float:right;
+    font-size: 20px;
+    
+}
+
+.section{
+    float: left;
+}
+#footer2{
+    margin-top: 1000px;
+    position: fixed;
+}
+
+
+/*css pour la 3ème page*/
+
+#h1{
+    text-align: center;
+}
+
+.body3{
+   background-color:rgb(131,166,192) ;
+}
+#p{
+    text-align: center;
+    font-size: 20px;
+   
+}
+#footer3{
+    margin-top: 700px;
+    position: fixed;
+    
+}
+
+/*css pour la 4ème page*/
+
+#header4{
+    text-align: center;
+}
+#footer4{
+    margin-top: 700px;
+    position: fixed;
+    
+}
+
+#body4{
+    background-color: rgb(131,166,192);
+    font-size: 20px;
+}

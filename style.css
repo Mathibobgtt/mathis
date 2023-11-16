@@ -1,5 +1,5 @@
 #header {
-    font-size: 20px;
+    font-size: 20px;            /*change la taille du text */
     font-weight: bold;  /* met le texte en gras */
     text-align: center;   /* permet de centrer le titre */
 }
@@ -7,26 +7,26 @@
 #nav{
    
     border-right: 2px solid (46, 45, 45); /*Les borders permettent de faire mon rectangle autour de nav */
-    padding: 10px;
+    padding: 10px;  /* permet de faire un espace entre  entre le texte et les bordures */
     padding-right: 40px;
-    width: 200px;   /* met la largeur de la nav a 100px*/
-    height: 600px ;   /* met la longueur de la nav*/
-    float: left;
-    background-color: rgb(131,166,192);     /* met le fond en gris foncé */
-    color: black;    /*met le text en bleu */
+    width: 200px;   /* met la largeur de la nav a 200px*/
+    height: 600px ;   /* met la longueur de la nav à 600px */
+    float: left;            /* permet de placer la nav sur le cote gauche */
+    background-color: rgb(131,166,192);     /* change la couleur du fond du site */
+    color: black;    /*met le text en noir */
  }
 
 #nav {
-    margin-bottom: 10px;
+    margin-bottom: 10px; /* espace entre les bordures et text voisin */
     margin-right: 0px;
 
  }
 .body{
-    background-color: rgb(228,240,245)   /* met le fond du site en gris */
+    background-color: rgb(228,240,245)   /* change la couleur du fond du site */
       }
 
 #bloc{
- text-align: center;
+ text-align: center;        /* permet de centrer le titre */
     
 }
 
@@ -34,7 +34,7 @@
     text-align: center;   /* permet de centrer le titre */
 }   
 #footer{
-    margin-top: 550px;
+    margin-top: 550px;  /* espace entre les bordures et text voisin */
     position: fixed;
 }
 
@@ -45,58 +45,57 @@
 /*css pour 2ème page*/
 
 #header2{
-    font-size: 20px;
+    font-size: 20px;        /*change la taille du text */
     font-weight: bold;  /* met le texte en gras */
     text-align: center;   /* permet de centrer le titre */
 }
 
 #nav2{
-    /*Les borders permettent de faire mon rectangle autour de nav */
-  /*Les borders permettent de faire mon rectangle autour de nav */
+    
   border-right: 2px solid (46, 45, 45); /*Les borders permettent de faire mon rectangle autour de nav */
-  /*Les borders permettent de faire mon rectangle autour de nav */
+  
   padding: 10px;
   padding-right: 40px;
   width: 90px;   /* met la largeur de la nav a 100px*/
   height: 2500px ;   /* met la longueur de la nav*/
-  float: left;
-  background-color: rgb(228,240,245) ;     /* met le fond en gris foncé */
-  color:black ;    /*met le text en bleu */
+  float: left;        /* permet de placer la nav sur le cote gauche */
+  background-color: rgb(228,240,245) ;     /* change la couleur du fond du site */
+  color:black ;    /*met le text en noir */
 }
 
 #body2{
-    background-color: rgb(131,166,192);
+    background-color: rgb(131,166,192);        /* change la couleur du fond du site */
 }
 
 
 
 
 #h2{             /* titre sport*/
-   margin-left: 800px;  /*permet de déplace le text'e vers la droite */
-   font-size:28px ;
+   margin-left: 800px;  /* espace entre les bordures et text voisin */
+   font-size:28px ;        /*change la taille du text */
     
 }
 
 #sport{
-    margin-left: 200px;
+    margin-left: 200px;    /* espace entre les bordures et text voisin */
     font-size: 20px;  /* change la taille du texte */
 }   
 
 
 
 #h3{              /* titre muscu*/
-    font-size: 28px;
+    font-size: 28px;        /*change la taille du text */
     margin-left: 750px;
     
 }
 #imgm{
-  margin-top: 100px;
+  margin-top: 100px;        /* espace entre les bordures et text voisin */
   margin-left: 550px;
 }
 
 #textmus{    /* text muscu */
-    margin-left: 200px;
-    font-size: 20px;
+    margin-left: 200px;                /* espace entre les bordures et text voisin */
+    font-size: 20px;        /*change la taille du text */
 }
 #épaule{    
     margin-left: 150px;
@@ -104,7 +103,7 @@
 }
 #textep{        /* texte épaule*/
     margin-left: 200px;
-    font-size: 20px;
+    font-size: 20px;        /*change la taille du text */
 
 }
 #pecs{
@@ -112,26 +111,26 @@
 }
 #textpec{          /* texte pecs*/
    margin-left: 200px;
-    font-size: 20px;
+    font-size: 20px;            /*change la taille du text */
 }
 #h1B{        /* titre boxe*/
     margin-left: 650px;
-    font-size: 28px;
+    font-size: 28px;            /*change la taille du text */
 
 }
 
 #boxe{
-    float:left
+    float:left        /* permet de enlever le texte du flux normal et de placer les éléments à côté*/
 
 }
 #h1A{    /*titre animaux*/
     margin-left: 170px;
-    font-size: 28px;
+    font-size: 28px;            /*change la taille du text */
 }
 #animaux{
     float: left;
-    text-align: center  ;
-    font-size: 20px; 
+    text-align: center  ;     /* permet de centrer le texte */
+    font-size: 20px;             /*change la taille du text */
    
 }
 #chien{             /* image chien*/
@@ -142,11 +141,11 @@
 }
 #textg{
     float:left;
-    font-size: 20px; 
+    font-size: 20px;         /*change la taille du text */
 }
 #textr{
     float: right;
-    font-size: 20px; 
+    font-size: 20px;         /*change la taille du text */
 }
 
 
@@ -155,7 +154,7 @@
 
 #text-boxe{
     float:right;
-    font-size: 20px;
+    font-size: 20px;            /*change la taille du text */
     
 }
 
@@ -171,15 +170,15 @@
 /*css pour la 3ème page*/
 
 #h1{
-    text-align: center;
+    text-align: center;        /* permet de centrer le titre */
 }
 
 .body3{
-   background-color:rgb(131,166,192) ;
+   background-color:rgb(131,166,192);  /* change la couleur du fond du site */
 }
 #p{
-    text-align: center;
-    font-size: 20px;
+    text-align: center;        /* permet de centrer le titre */
+    font-size: 20px;            /*change la taille du text */
    
 }
 #footer3{
@@ -191,7 +190,7 @@
 /*css pour la 4ème page*/
 
 #header4{
-    text-align: center;
+    text-align: center;            /* permet de centrer le titre */
 }
 #footer4{
     margin-top: 700px;
@@ -200,6 +199,6 @@
 }
 
 #body4{
-    background-color: rgb(131,166,192);
-    font-size: 20px;
+    background-color: rgb(131,166,192);        /* change la couleur du fond du site */
+    font-size: 20px;                        /*change la taille du text */
 }
